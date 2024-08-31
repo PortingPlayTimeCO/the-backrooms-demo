@@ -1,0 +1,17 @@
+{
+    "image2": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAACAPAAAAAPD/X/8g/wAA8v8v/1//APD1////L/8A8PLyIv////L///Ui////9f//8lX///8C////Vf/y/w8v//8i//X//1D//yL/8v//IC//////8gAAX//////1AAAg////8PIAAAAA8A8AAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "GOD"
+    },
+    "image1": {
+        "data": "hwQoACgAAAD/////////////////////////////////////////////////////AAAAAAAAAAAAAAAAAP////////8AAAAAAAAAAAAAAAAA/////////wAAAAAAAAAAAAAAAAD/////////AAAAAAAAAAAAAAAAAP////////8AAAAAAAAAAAAAAAAA/////////wAAAAAAAAAAAAAAAAD/////////AAAAAAAAAAAAAAAAAP////////8AAAAAAAAAAAAAAAAA/////////wAAAAAAAAAAAAAAAAD/////////AAAAAAAAAAAAAAAAAP////////8AAAAAAAAAAAAAAAAA/////////wAAAAAAAAAAAAAAAAD/////////AAAAAAAAAAAAAAAAAP////////8AAAAAAAAAAAAAAAAA/////////wAAAAAAAAAAAAAAAAD/////////AAAAAAAAAAAAAAAAAP////////8AAAAAAAAAAAAAAAAA/////////wAAAAAAAAAAAAAAAAD/////////AAAAAAAAAAAAAAAAAP////////8AAAAAAAAAAAAAAAAA/////////wAAAAAAAAAAAAAAAAD/////////AAAAAAAAAAAAAAAAAP////////8AAAAAAAAAAAAAAAAA/////////wAAAAAAAAAAAAAAAAD/////////AAAAAAAAAAAAAAAAAP////////8AAAAAAAAAAAAAAAAA/////////wAAAAAAAAAAAAAAAAD/////////AAAAAAAAAAAAAAAAAP////////8AAAAAAAAAAAAAAAAA/////////wAAAAAAAAAAAAAAAAD/////////AAAAAAAAAAAAAAAAAP////////8AAAAAAAAAAAAAAAAA/////////wAAAAAAAAAAAAAAAAD/////////AAAAAAAAAAAAAAAAAP////////8AAAAAAAAAAAAAAAAA/////////wAAAAAAAAAAAAAAAAD//////////////////////////////////////////////////////////////w==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "mysprite"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
